@@ -1,9 +1,10 @@
 # Rime
 
 [![Website](https://img.shields.io/badge/Website-yorben.me-08090d?style=flat-square&logo=safari)](https://yorben.me/#rime)
+[![Homebrew](https://img.shields.io/badge/Homebrew-cask-FBB040?style=flat-square&logo=homebrew)](https://github.com/Yvsleyen00941/homebrew-tap)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Swift](https://img.shields.io/badge/Swift-5-orange?style=flat-square&logo=swift)](https://swift.org)
-[![Platform](https://img.shields.io/badge/Platform-macOS%2027-lightgrey?style=flat-square&logo=apple)](https://yorben.me/#rime)
+[![Platform](https://img.shields.io/badge/Platform-macOS%2014+-lightgrey?style=flat-square&logo=apple)](https://yorben.me/#rime)
 
 A PDF reader for studying, where only the page is left. Everything around it
 freezes over into frosted ice: the desktop and its widgets, the icons, the Dock
@@ -75,7 +76,13 @@ Right-click any markup to recolour or delete it, or to edit a note.
 
 ## Install
 
-**Download:** get `Rime-macOS-v1.0.0.zip` from
+**Via Homebrew:**
+
+```sh
+brew install --cask Yvsleyen00941/tap/rime
+```
+
+**Direct Download:** get `Rime-macOS-v1.0.0.zip` from
 [Releases](https://github.com/Yvsleyen00941/Rime/releases), unzip it and move
 Rime to Applications. Rime isn't notarized, so the first time macOS won't open
 it: go to **System Settings → Privacy & Security** and click **Open Anyway**.
