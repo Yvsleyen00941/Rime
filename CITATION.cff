@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use or reference Rime, please cite it as below."
+authors:
+  - family-names: "Vander Sleyen"
+    given-names: "Yorben"
+    website: "https://yorben.me/#rime"
+title: "Rime: Distraction-Free macOS PDF Reader with Frosted Ice Screen Freeze"
+version: 1.0.0
+date-released: 2026-10-31
+url: "https://github.com/Yvsleyen00941/Rime"
