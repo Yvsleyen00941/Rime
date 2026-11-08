@@ -110,6 +110,11 @@ open -a build/Build/Products/Debug/Rime.app notes.pdf --args -RimeShots ~/Deskto
 
 The screenshots here show demo lecture notes on the default macOS wallpaper.
 
+## Also by Yorben
+
+- **[Tape](https://github.com/Yvsleyen00941/Tape)** — Stock ticker for macOS in the empty corner beside the Dock.
+- **[Cockpit](https://github.com/Yvsleyen00941/Cockpit)** — Unified daily productivity HUD and menu bar daemon.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
